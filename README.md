@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm AISHIK CHAKRABORTY</h1>
+<!-- ![MasterHead](https://i.redd.it/o76bp3aoz6yb1.gif) -->
+<!-- ![MasterHead](https://i.pinimg.com/originals/ab/eb/3a/abeb3a2030882a1bf12225d23701ee5b.gif) -->
+<!-- ![MasterHead](https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif) -->
+![MasterHead](https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif)
 <h3 align="center">A BTech IT student and a Tech Enthusiast 🔭 Excited about learning and exploring new things ⚡ Doing Full Stack Development and UI/UX designs 😄 Interests in Machine Learning and BlockChain 🤔</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishik0007&label=Profile%20views&color=0e75b6&style=flat" alt="aishik0007" /> </p>
@@ -20,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aishik0007&show_icons=true&locale=en" alt="aishik0007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aishik0007&" alt="aishik0007" /></p>
+# 📈 Activity Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aishik0007&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
